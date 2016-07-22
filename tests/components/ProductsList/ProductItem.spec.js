@@ -8,13 +8,6 @@ import noop from 'lodash/noop';
 
 import style from 'components/ProductsList/ProductItem/style.scss';
 
-console.log('----------------------------');
-console.log('----------------------------');
-console.log('----------------------------');
-console.log('----------------------------');
-console.log('----------------------------');
-console.log(RoundedButton);
-
 describe('<ProductItem />', () => {
 
   const setup = (props) => {

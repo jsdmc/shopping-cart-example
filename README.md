@@ -13,5 +13,5 @@ and then
 - npm run test:browser
 
 
-Run tests in console (!!!not all tests passed)
+Run tests in console
 - npm test
